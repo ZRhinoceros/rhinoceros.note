@@ -8,3 +8,8 @@
 * 安装
 >解压缩下载的NEARDTree，把 plugin/NERD_tree.vim 和doc/NERD_tree.txt分别拷贝到~/.vim/plugin 和 ~/.vim/doc 目录。
 * 配置
+<p><code>
+> " 设置NerdTree快捷键<br />
+> `map <F3> :NERDTreeMirror<CR>`<br />
+> `map <F3> :NERDTreeToggle<CR>`<br />
+</code></p>
